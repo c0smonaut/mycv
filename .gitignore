@@ -1,0 +1,14 @@
+archive.tar.gz
+*.log
+*.out
+*.aux
+auto
+*~
+*.pdf
+*.toc
+*.ps
+*.dvi
+_region_.prv
+_region_.tex
+*.fmt
+
